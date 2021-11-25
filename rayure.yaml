@@ -1,0 +1,4 @@
+train : C:/Users/alaek/Object detection/projet-transerve-valdom/output/images/train
+val : C:/Users/alaek/Object detection/projet-transerve-valdom/output/images/validation
+nc : 1
+names : ["rayure"]
