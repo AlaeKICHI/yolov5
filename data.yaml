@@ -1,6 +1,5 @@
 train: C:/Users/alaek/Object detection/projet-transerve-valdom/yolov5/yolo_annotation.v1-yolov5_22_11_21.yolov5pytorch/train/images
-val: C:/Users/alaek/Object detection/projet-transerve-valdom/yolov5/yolo_annotation.v1-yolov5_22_11_21.yolov5pytorch/train/valid/images
+val: C:/Users/alaek/Object detection/projet-transerve-valdom/yolov5/yolo_annotation.v1-yolov5_22_11_21.yolov5pytorch/valid/images
 
 nc: 1
 names: ['rayure']
-

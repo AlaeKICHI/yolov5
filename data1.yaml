@@ -1,0 +1,5 @@
+train: C:/Users/alaek/Object detection/projet-transerve-valdom/yolov5/test2_yolov5.v1i.yolov5pytorch/train/images
+val: C:/Users/alaek/Object detection/projet-transerve-valdom/yolov5/test2_yolov5.v1i.yolov5pytorch/valid/images
+
+nc: 1
+names: ['rayure']
